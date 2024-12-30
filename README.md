@@ -4,7 +4,7 @@ I'm a 20-year-old student from Malaysia, currently developing a game engine call
 
 ## 🌱 About Me
 
-- 🔭 I’m currently working on **RealityEngine**.
+- 🔭 I’m currently working on **RealityEngine**, a C++ DirectX12 Ultimate game engine.
 - 🌱 I’m currently learning more about advanced game development techniques and graphics programming.
 - 👯 I’m looking to collaborate on game development projects and open-source contributions.
 - 🤔 I’m looking for help with optimizing graphics and engine performance.
@@ -20,6 +20,7 @@ I'm a 20-year-old student from Malaysia, currently developing a game engine call
 
 - **Game Development**: 
   - ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+  - ![Fab Unreal Engine Marketplace](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -29,7 +30,7 @@ I'm a 20-year-old student from Malaysia, currently developing a game engine call
 
 - [LinkedIn](www.linkedin.com/in/khairol-anwar-a64b91231)
 - [Twitter](https://twitter.com/eriryuukai)
-
+- [Fab](https://www.fab.com/sellers/KhxiSaki)
 ## 🚀 Projects
 
 Here are a few of my notable projects:
