@@ -4,12 +4,12 @@ I'm a 20-year-old student from Malaysia, currently developing a game engine call
 
 ## 🌱 About Me
 
-- 🔭 I’m currently working on **RealityEngine**, a game engine designed to [briefly describe what makes your engine unique or its purpose].
+- 🔭 I’m currently working on **RealityEngine**.
 - 🌱 I’m currently learning more about advanced game development techniques and graphics programming.
 - 👯 I’m looking to collaborate on game development projects and open-source contributions.
 - 🤔 I’m looking for help with optimizing graphics and engine performance.
 - 💬 Ask me about C++, Unreal Engine, and game development concepts.
-- 📫 How to reach me: [khairol.mzln@gmail.com].
+- 📫 How to reach me: khairol.mzln@gmail.com.
 
 ## 🛠️ Technologies & Tools
 
