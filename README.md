@@ -15,12 +15,9 @@ I'm a 20-year-old student from Malaysia, currently developing a game engine call
 
 - **Languages**: 
   - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-  - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 - **Game Development**: 
   - ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-  - ![Fab Unreal Engine Marketplace](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -29,13 +26,12 @@ I'm a 20-year-old student from Malaysia, currently developing a game engine call
 ## 📫 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/khairol-anwar-a64b91231)
-- [Twitter](https://twitter.com/eriryuukai)
-- [Fab](https://www.fab.com/sellers/KhxiSaki)
+
 ## 🚀 Projects
 
 Here are a few of my notable projects:
 
-- [RealityEngine](https://github.com/KhxiSaki/RealityEngine)
+
 
 ---
 
