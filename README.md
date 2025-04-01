@@ -32,7 +32,7 @@ I'm a 20-year-old student from Malaysia, currently developing a game engine call
 
 Here are a few of my notable projects:
 
-
+- [GAS Magician](https://github.com/KhxiSaki/GASMagician)
 
 ---
 
