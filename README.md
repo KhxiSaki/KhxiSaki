@@ -1,16 +1,9 @@
 # 👋 Hi there! I'm Khairol Anwar
 
-I'm a 20-year-old student from Malaysia, currently developing a game engine called **RealityEngine**. I have a passion for game development and aspire to become a game engine developer, graphic programmer, software engineer, and Unreal Engine gameplay programmer.
+I'm a 21-year-old student from Malaysia. I have a passion for game development and aspire to become a game engine developer, graphic programmer, software engineer, and Unreal Engine gameplay programmer.
 
 ## 🌱 About Me
-
-- 🔭 I’m currently working on **RealityEngine**, a C++ DirectX12 Ultimate game engine.
-- 🔭 I’m currently working on **Octagram**, a .NET 9 MMO Style Backend API for Unreal Engine
-- 🌱 I’m currently learning more about advanced game development techniques and graphics programming.
-- 👯 I’m looking to collaborate on game development projects and open-source contributions.
-- 🤔 I’m looking for help with optimizing graphics and engine performance.
-- 💬 Ask me about C++, Unreal Engine, and game development concepts.
-- 📫 How to reach me: khairol.mzln@gmail.com.
+- 📫 How to reach me: khairolanwar.mazlan@gmail.com.
 
 ## 🛠️ Technologies & Tools
 
